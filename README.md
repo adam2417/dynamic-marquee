@@ -1,4 +1,4 @@
-[![npm version](https://badge.fury.io/js/dynamic-marquee.svg)](https://badge.fury.io/js/dynamic-marquee)
+[![npm version](https://badge.fury.io/js/dynamic-marquee.svg)](https://badge.fury.io/js/dynamic-marquee) [![Greenkeeper badge](https://badges.greenkeeper.io/tjenkinson/dynamic-marquee.svg)](https://greenkeeper.io/)
 # Dynamic Marquee
 A small library for creating marquees.
 
